@@ -180,8 +180,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
-  color: #fff;
-  background: #bc2c2c;
+  color: #bc2c2c;
+  background: #373834;
 }
 .navbar .dropdown ul {
   display: block;
