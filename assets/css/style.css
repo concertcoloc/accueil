@@ -86,11 +86,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo {
   overflow: hidden;
-  padding: 15px 30px 12px 35px;
+  padding: 15px 30px 12px 33px;
   background: #c74750;
    background-color: transparent;
    background-image:url("../img/logost.png");
-   height:77px;
+   height:80px;
    width:78px;
    
 }
