@@ -86,11 +86,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo {
   overflow: hidden;
-  padding: 15px 30px 13px 30px;
+  padding: 15px 30px 12px 35px;
   background: #c74750;
    background-color: transparent;
    background-image:url("../img/logost.png");
-   height:78px;
+   height:77px;
    width:78px;
    
 }
@@ -114,10 +114,10 @@ h1, h2, h3, h4, h5, h6 {
   #header {
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     top: 0;
-    background: #d14b53;
   }
   #header.header-scrolled, #header .header-container {
     background: #d14b53;
+	
 	
   }
   #header .logo {
@@ -265,6 +265,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   left: 0;
   bottom: 0;
+  background-color:transparent;
   background: rgba(29, 28, 31, 0.9);
   transition: 0.3s;
   z-index: 999;
@@ -282,17 +283,17 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: transparent;
   overflow-y: auto;
   transition: 0.3s;
 }
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #36343a;
+  color: #fff;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #323232;
+  color: #bc2c2c;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -622,7 +623,7 @@ section {
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  padding-right:150px;
+  padding-right:0px;
   background-image: url("../img/concerts/doublem.jpg");
 }
 
@@ -633,7 +634,7 @@ section {
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  padding-right:150px;
+  padding-right:0px;
   background-image: url("../img/concerts/m-et-p.jpg");
   background-color:#b72b46;
   
@@ -670,15 +671,15 @@ section {
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  padding-right:150px;
+  padding-right:0px;
   background-image: url("../img/concerts/boule.jpg");
 }
 
 
 
 .services .icon-box2a {
-	 margin-left:238px;
-	width:380px;
+	 margin-left:100px;
+	width:700px;
   text-align: center;
   padding: 30px 20px;
  
@@ -743,7 +744,7 @@ section {
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  padding-right:150px;
+  padding-right:0px;
   background-image: url("../img/concerts/bacchus-4eme-album.jpg");
 }
 
@@ -774,7 +775,7 @@ section {
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  padding-right:150px;
+  padding-right:0px;
   background-image: url("../img/concerts/getcompagnie.jpg");
 }
 
