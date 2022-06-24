@@ -763,9 +763,10 @@ section {
 .services .image1{
 	
  text-align: center;
- margin-left:100px;
-  width:700px;
-  height:395px;
+margin-left: auto; 
+ margin-right: auto;
+  width:400px;
+  height:225px;
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
@@ -811,9 +812,10 @@ section {
 .services .image2{
 	
  text-align: center;
- margin-left:100px;
-  width:700px;
-  height:395px;
+margin-left: auto; 
+ margin-right: auto;
+  width:400px;
+  height:225px;
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
@@ -824,7 +826,8 @@ section {
 
 
 .services .icon-box2a {
-	 margin-left:100px;
+	 margin-left:auto;
+	 margin-right:auto;
 	width:700px;
   text-align: center;
   padding: 30px 20px;
@@ -884,9 +887,10 @@ section {
 .services .image3{
 	
  text-align: center;
- margin-left:0px;
-  width:880px;
-  height:395px;
+ margin-left: auto; 
+ margin-right: auto;
+  width:460px;
+  height:300px;
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
@@ -915,9 +919,10 @@ section {
 .services .image4{
 	
  text-align: center;
- margin-left:240px;
-  width:380px;
-  height:300px;
+margin-left: auto; 
+ margin-right: auto;
+  width:400px;
+  height:246px;
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
@@ -928,7 +933,8 @@ section {
 
 
 .services .icon-box4a {
-	 margin-left:238px;
+	margin-left:auto;
+	 margin-right:auto;
 	width:380px;
   text-align: center;
   padding: 30px 20px;
