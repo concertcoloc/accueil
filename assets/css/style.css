@@ -577,7 +577,7 @@ section {
 
 	   width: 109px;
 	  height:130px;
-	background-image:url("../img/logos/concerts.png");
+	background-image:url("../img/logo/concerts.png");
 	
 	position: relative;
 	
@@ -590,7 +590,7 @@ section {
 	   width: 380px;
 	  height:41px;
 	  margin-bottom:10px;
-	background-image:url("../img/logos/events.png");
+	background-image:url("../img/logo/events.png");
 	
 	position: relative;
 	
@@ -603,7 +603,7 @@ section {
 	   width: 289px;
 	  height:41px;
 	  margin-bottom:10px;
-	background-image:url("../img/logos/concertsfont.png");
+	background-image:url("../img/logo/concertsfont.png");
 	
 	position: relative;
 	
@@ -617,7 +617,7 @@ section {
 	   width: 287px;
 	  height:41px;
 	  margin-bottom:10px;
-	background-image:url("../img/logos/galleriefont.png");
+	background-image:url("../img/logo/galleriefont.png");
 	
 	position: relative;
 	
