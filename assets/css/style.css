@@ -27,6 +27,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.whoareyou{
+	
+	font-family: Georgia, serif;
+	font-size:16px;
+}
+
 
 #contact .col-4 {
   flex: 0 0 auto;
@@ -578,13 +584,8 @@ section {
 	   width: 109px;
 	  height:130px;
 	background-image:url("../img/logo/concerts.png");
-	
 	position: relative;
-	
 }
-
-
-
 .events{
 
 	   width: 380px;
@@ -595,40 +596,53 @@ section {
 	position: relative;
 	
 }
-
-
-
 .concertfont{
 
 	   width: 289px;
 	  height:41px;
 	  margin-bottom:10px;
 	background-image:url("../img/logo/concertsfont.png");
-	
 	position: relative;
-	
+}
+.policeconcert{
+	font-family: Georgia, serif;
+	font-size:16px;
+}
+
+.photofont{
+	font-size:16px;
+	color:#504643;
 }
 
 
 
-
 .galleriefont{
-
 	   width: 287px;
 	  height:41px;
 	  margin-bottom:10px;
 	background-image:url("../img/logo/galleriefont.png");
 	position: relative;
 }
-
-
 .thanksfont{
 	   width: 400px;
 	  height:42px;
 	  margin-bottom:10px;
 	background-image:url("../img/logo/thanks.png");
 	position: relative;
-	
+}
+.teamfont{
+	   width: 161px;
+	  height:41px;
+	  margin-bottom:10px;
+	background-image:url("../img/logo/team.png");
+	position: relative;
+}
+.contactfont{
+	   width: 256px;
+	  height:41px;
+	  margin-bottom:10px;
+	background-image:url("../img/logo/contact.png");
+	position: relative;
 }
 
 
