@@ -618,10 +618,22 @@ section {
 	  height:41px;
 	  margin-bottom:10px;
 	background-image:url("../img/logo/galleriefont.png");
-	
+	position: relative;
+}
+
+
+.thanksfont{
+	   width: 400px;
+	  height:42px;
+	  margin-bottom:10px;
+	background-image:url("../img/logo/thanks.png");
 	position: relative;
 	
 }
+
+
+
+
 
 
 
